@@ -1,0 +1,15 @@
+.button-scm{
+	width: 350px;
+	height: 150px;
+	background: #1eb819;
+	border-color: #e8f4e8;
+	border-width: 3px;
+	font-size: 50px;
+	color: white;
+	margin-left: 550px;
+	margin-top: 250px;
+	border-radius: 45px;
+}
+.button-scm:hover{
+	background: #6df943;
+}
